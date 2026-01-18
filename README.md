@@ -69,7 +69,7 @@ Fluxo resumido:
 
 ### Backend
 
-- **Java 11**
+- **Java 21**
 - **Spring Boot**
 - **Spring Data JPA**
 - **MapStruct** (DTO ↔ Entity)
@@ -121,7 +121,7 @@ Os arquivos são armazenados em buckets no MinIO.
 
 ### Pré-requisitos
 
-- Java 11+
+- Java 21+
 - Docker & Docker Compose
 - Apache Kafka
 - PostgreSQL
@@ -156,7 +156,7 @@ docker-compose up -d
 
 A imagem abaixo representa o fluxo completo de eventos e comunicação entre os microsserviços:
 
-> _(Adicionar aqui a imagem da arquitetura presente neste repositório)_
+![Arquitetura do Sistema](arquitetura do projeto ms-kafka.jpg)
 
 ---
 
