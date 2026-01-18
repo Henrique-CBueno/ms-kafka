@@ -156,7 +156,7 @@ docker-compose up -d
 
 A imagem abaixo representa o fluxo completo de eventos e comunicação entre os microsserviços:
 
-![Arquitetura do Sistema](arquitetura do projeto ms-kafka.jpg)
+![Arquitetura do Sistema](./arquitetura%20do%20projeto%20ms-kafka.jpg)
 
 ---
 
